@@ -1,0 +1,13 @@
+h1.title {
+    background-color:cornflowerblue ;
+    color: azure;
+}
+
+section#header {
+    background-color: darkgray;
+}
+
+h2.sous-titre {
+    color: cornflowerblue;
+    background-color: black;
+}
